@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="https://github.com/Himanshu11-03/Himanshu11-03/blob/main/Himanshu11-03Banner.jpg.png" alt="Himanshu Sharma Banner" width="100%" />
+  <img src="https://github.com/Harsh-tech8/Harsh-tech8/blob/main/Github%20banner.png" alt="Github banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harshvardhan Nagavan</h1>
@@ -114,7 +114,7 @@ Version Control
 
 🐙 GitHub: https://github.com/Harsh-tech8
 
-💼 LinkedIn:www.linkedin.com/in/himanshu-sharma-991a17354
+💼 LinkedIn:https://www.linkedin.com/in/harsh-vardhan-nagavan-95bb84331?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 Email:nagwanharshu@gmail.com
 
