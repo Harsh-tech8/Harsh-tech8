@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src=WhatsApp Image 2026-07-30 at 1.15.03 PM (1).jpeg alt="Github banner" width="100%" />
+  <img src=profie photo.jpeg.jpeg alt="Github banner" width="100%" />
 </p>
 
 <!-- ========================================================= -->
