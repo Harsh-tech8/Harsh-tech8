@@ -4,34 +4,49 @@
   <img src=WhatsApp Image 2026-07-30 at 1.15.03 PM (1).jpeg alt="Github banner" width="100%" />
 </p>
 
-<!-- ======================== -->
-<!--      MODERN HEADER       -->
-<!-- ======================== -->
+<!-- ========================================================= -->
+<!--                  HARSHVARDHAN NAGAVAN                     -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+
+<td width="72%">
+
+<img src="./Github%20banner.png" width="100%" alt="Banner"/>
+
+</td>
+
+<td width="28%" align="center">
+
+<img src="./profile-photo.jpeg" width="220" alt="Harsh" />
+
+<br><br>
+
+# Harshvardhan Nagavan
+
+### 💻 Software Engineer in Progress
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=260&lines=C%2B%2B+Developer;Python+Developer;AI+Enthusiast;Backend+Learner;Open+Source+Contributor;Future+Software+Engineer"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src ="C:\Users\harsh\OneDrive\Documents\Pictures\Saved Pictures\WhatsApp Image 2026-07-30 at 1.15.03 PM (1).jpeg" width="180" style="border-radius:50%;" />
+[![Followers](https://img.shields.io/github/followers/Harsh-tech8?style=for-the-badge&logo=github)](https://github.com/Harsh-tech8)
 
-# Hi, I'm Harshvardhan Nagavan 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+Student;Aspiring+Software+Engineer;C%2B%2B+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Projects+Every+Day" />
-
-### 🚀 Software Engineer in Progress | AI Developer | Problem Solver
-
-<p>
-<a href="https://github.com/Harsh-tech8">
-<img src="https://img.shields.io/github/followers/Harsh-tech8?style=for-the-badge&logo=github&color=181717"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Harsh-tech8&style=for-the-badge&color=2563EB"/>
-
-</p>
+![](https://komarev.com/ghpvc/?username=Harsh-tech8&style=for-the-badge&color=2563EB)
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```cpp
 class HarshvardhanNagavan {
@@ -40,23 +55,33 @@ public:
 
     string education = "B.Tech Computer Science";
 
-    vector<string> interests = {
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Development",
-        "Problem Solving"
+    string role = "Aspiring Software Engineer";
+
+    vector<string> skills = {
+
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "GitHub"
+
     };
 
-    vector<string> currentlyLearning = {
+    vector<string> learning = {
+
         "Data Structures",
         "Algorithms",
-        "System Design",
-        "Python",
-        "C++"
+        "Machine Learning",
+        "Backend Development",
+        "System Design"
+
     };
 
-    string goal = "Software Engineer at a Top MNC";
+    string goal =
+    "Become a Software Engineer at a Top Product-Based Company";
+
 };
 ```
 
@@ -64,15 +89,11 @@ public:
 
 # 🚀 Current Focus
 
-✅ Building Resume-Level Projects
-
-✅ Solving DSA Problems Daily
-
-✅ Learning AI & Machine Learning
-
-✅ Open Source Contributions
-
-✅ Backend Development
+- 🤖 AI Chatbot Projects
+- 💻 Resume-Level Software Projects
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 🚀 Open Source Contributions
 
 ---
 
@@ -86,13 +107,13 @@ public:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-tech8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-tech8&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-tech8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -116,7 +137,7 @@ public:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -126,69 +147,66 @@ public:
 
 ---
 
-# 🌟 Featured Skills
+# 🌟 Technical Skills
 
-| Skill | Level |
-|-------|-------|
+| Technology | Experience |
+|------------|------------|
 | C++ | ⭐⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐⭐☆ |
 | HTML/CSS | ⭐⭐⭐⭐☆ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
 | JavaScript | ⭐⭐⭐☆☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
 | SQL | ⭐⭐⭐☆☆ |
 
 ---
 
-# 📌 What I'm Working On
+# 🎯 2026 Goals
 
-🤖 AI Chatbot Projects
-
-💻 Resume-Level Software Projects
-
-📚 Data Structures & Algorithms
-
-🌐 Full Stack Development
-
-🚀 Open Source Learning
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 10+ Resume Projects
+- ✅ Learn Machine Learning
+- ✅ Master Backend Development
+- ✅ Contribute to Open Source
+- ✅ Get Placed in a Top MNC
 
 ---
 
-# 📚 2026 Goals
+# 📂 Featured Projects
 
-- Crack Product-Based Companies
-- Build 10+ Major Projects
-- Learn Machine Learning
-- Master System Design
-- 500+ DSA Problems
-- Contribute to Open Source
+### 🤖 AI Resume Chatbot
+AI-powered chatbot that answers questions based on a resume using Python, Flask, and LLM APIs.
+
+---
+
+### 💻 DSA Practice Repository
+A collection of C++ solutions for Data Structures and Algorithms with optimized approaches.
+
+---
+
+### 🌐 Portfolio Website
+Responsive personal portfolio built using HTML, CSS, JavaScript, and modern UI principles.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Harsh-tech8">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/harsh-vardhan-nagavan-95bb84331">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:nagwanharshu@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-### *"Success isn't built overnight—it's built one commit at a time."*
 
 </div>
 
@@ -196,6 +214,10 @@ public:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:2563eb&section=footer"/>
+## 💡 Quote
+
+*"Code. Learn. Improve. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=footer"/>
 
 </div>
