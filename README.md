@@ -19,7 +19,7 @@
 
 <td width="28%" align="center">
 
-<img src="./profile-photo.jpeg" width="220" alt="Harsh" />
+<img src="  <img src=profie photo.png.jpegalt="Github banner" width="100%" />" width="220" alt="Harsh" />
 
 <br><br>
 
