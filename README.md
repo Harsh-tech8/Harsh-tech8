@@ -4,126 +4,198 @@
   <img src="https://github.com/Harsh-tech8/Harsh-tech8/blob/main/Github%20banner.png" alt="Github banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshvardhan Nagavan</h1>
+<!-- ======================== -->
+<!--      MODERN HEADER       -->
+<!-- ======================== -->
 
-<h3 align="center">💻 C++ Developer | Python Enthusiast | Future Software Engineer</h3>
+<div align="center">
 
+<img src ="C:\Users\harsh\OneDrive\Documents\Pictures\Saved Pictures\WhatsApp Image 2026-07-30 at 1.15.03 PM (1).jpeg" width="180" style="border-radius:50%;" />
 
+# Hi, I'm Harshvardhan Nagavan 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+Student;Aspiring+Software+Engineer;C%2B%2B+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Projects+Every+Day" />
 
-## 🚀 About Me
+### 🚀 Software Engineer in Progress | AI Developer | Problem Solver
 
-🎓 Computer Science Student
+<p>
+<a href="https://github.com/Harsh-tech8">
+<img src="https://img.shields.io/github/followers/Harsh-tech8?style=for-the-badge&logo=github&color=181717"/>
+</a>
 
-💻 Passionate about Programming and Software Development
+<img src="https://komarev.com/ghpvc/?username=Harsh-tech8&style=for-the-badge&color=2563EB"/>
 
-🌱 Currently Learning:
+</p>
 
-* Data Structures & Algorithms
-* Advanced C++
-* Python Development
-* Git & GitHub
-* Open Source Contribution
-
-🎯 Goals:
-
-* Become a Software Engineer
-* Master Problem Solving
-* Build Real-World Projects
-* Contribute to Open Source
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
+
+```cpp
+class HarshvardhanNagavan {
+
+public:
+
+    string education = "B.Tech Computer Science";
+
+    vector<string> interests = {
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Problem Solving"
+    };
+
+    vector<string> currentlyLearning = {
+        "Data Structures",
+        "Algorithms",
+        "System Design",
+        "Python",
+        "C++"
+    };
+
+    string goal = "Software Engineer at a Top MNC";
+};
+```
+
+---
+
+# 🚀 Current Focus
+
+✅ Building Resume-Level Projects
+
+✅ Solving DSA Problems Daily
+
+✅ Learning AI & Machine Learning
+
+✅ Open Source Contributions
+
+✅ Backend Development
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,html,css,javascript,git,github,vscode,mysql,linux"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-tech8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-tech8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-tech8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-tech8&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh-tech8&theme=tokyonight&no-frame=true&column=4&margin-w=20"/>
+
+</div>
+
+---
+
+# 🌟 Featured Skills
+
+| Skill | Level |
+|-------|-------|
+| C++ | ⭐⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐⭐☆ |
+| HTML/CSS | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐☆☆ |
+| SQL | ⭐⭐⭐☆☆ |
+
+---
+
+# 📌 What I'm Working On
+
+🤖 AI Chatbot Projects
+
+💻 Resume-Level Software Projects
+
+📚 Data Structures & Algorithms
+
+🌐 Full Stack Development
+
+🚀 Open Source Learning
+
+---
+
+# 📚 2026 Goals
+
+- Crack Product-Based Companies
+- Build 10+ Major Projects
+- Learn Machine Learning
+- Master System Design
+- 500+ DSA Problems
+- Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,javascript,git,github,vscode" />
+
+<a href="https://github.com/Harsh-tech8">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-vardhan-nagavan-95bb84331">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:nagwanharshu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 📚 What I'm Working On
+# 💡 Quote
 
-🔹 C++ Logic Building Repository
+<div align="center">
 
-🔹 Python Automation Projects
+### *"Success isn't built overnight—it's built one commit at a time."*
 
-🔹 GitHub Portfolio Development
-
-🔹 Data Structures & Algorithms Practice
-
-🔹 College Practical & Academic Projects
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu11-03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu11-03&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:2563eb&section=footer"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu11-03&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Himanshu11-03&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🌟 Featured Skills
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="60"><br>
-<b>C++</b><br>
-Problem Solving & Logic Building
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="60"><br>
-<b>Python</b><br>
-Projects & Automation
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60"><br>
-<b>Web Development</b><br>
-HTML • CSS • JavaScript
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60"><br>
-<b>GitHub</b><br>
-Version Control
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Connect With Me
-
-🐙 GitHub: https://github.com/Harsh-tech8
-
-💼 LinkedIn:https://www.linkedin.com/in/harsh-vardhan-nagavan-95bb84331?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-📧 Email:nagwanharshu@gmail.com
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
-</p>
-
-<h3 align="center">
-✨ Keep Learning • Keep Coding • Keep Growing ✨
-</h3>
+</div>
