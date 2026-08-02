@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./banner.png" alt="Github Banner" width="100%" />
+  <img src="./profie photo.jpeg" alt="Github banner" width="100%" />
 </p>
 
 <!-- ========================================================= -->
@@ -13,13 +13,13 @@
 
 <td width="72%">
 
-<img src="./banner.png" width="100%" alt="Banner"/>
+<img src="./Github%20banner.png" width="100%" alt="Banner"/>
 
 </td>
 
 <td width="28%" align="center">
 
-<img src="./profile-photo.jpeg" width="220" alt="Harshvardhan Nagavan"/>
+<img src="./profie photo.png" width="220" alt="Harsh" />
 
 <br><br>
 
@@ -33,8 +33,6 @@
 
 </tr>
 </table>
-
----
 
 <div align="center">
 
