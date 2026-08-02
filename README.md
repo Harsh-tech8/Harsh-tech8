@@ -19,7 +19,7 @@
 
 <td width="28%" align="center">
 
-<img src="./profie photo.png" width="220" alt="Harsh" />
+<img src="./profile_photo.jpeg" width="220" alt="Harsh" />
 
 <br><br>
 
